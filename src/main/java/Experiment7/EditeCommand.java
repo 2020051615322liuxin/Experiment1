@@ -1,5 +1,5 @@
 package Experiment7;
-
+//
 public class EditeCommand extends Command{
     private BoardScrean boardScrean;
 
